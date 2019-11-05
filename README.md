@@ -1,2 +1,2 @@
 # aaa
-Este es un proyecto para empezar en github
+Aquest és el primer projecte de <aaron> <buenaventura>
